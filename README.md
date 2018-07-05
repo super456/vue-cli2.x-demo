@@ -11,4 +11,4 @@
 <img src="./src/assets/myFirstDemo.gif">
 
 ## 参考文献
-- Web前端网站教程-米斯特吴的教学小demo
+- Web前端网站教程-米斯特吴
